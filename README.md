@@ -18,5 +18,5 @@ ckboomc YouTube 發片 app（AutoVideo 的一支，頻道 @ckboomc）的首頁�
 
 ## 網域注意
 
-- GitHub Pages 只有在 repo 位於名為 `ckboomc` 的帳號／組織下，才會服務在 ckboomc.github.io。目前 repo 仍在 New-Moore 帳號下，需建立 `ckboomc` organization 並把 repo 轉過去才會生效。
+- 網域靠 repo 位於 GitHub organization `ckboomc`（ckboomc/ckboomc.github.io）才成立（2026-10-08 已從 New-Moore 帳號轉入）。Pages 從 main 分支根目錄發布，https://ckboomc.github.io/ 已上線，驗證檔回 200。不可把 repo 轉回個人帳號或改名，否則網域與 Search Console 驗證會失效。
 - 新網域在 OAuth 驗證通過前，舊站 New-Moore.github.io/ckboomc/ 不可刪。
